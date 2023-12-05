@@ -1,7 +1,7 @@
 import random
 """ 1 - Programa que armazena os nomes e idades de 10 pessoas em uma matriz, e imprime o nome da pessoa mais nova """
 
-nomes = ['Beatriz','Rafael','Mariana','Thiago','Isabela','Lucas','Julia','Matheus','Juliana','Giseli']
+nomes = ['Bianca','Rafael','Reginaldo','Thiago','Livia','Lucas','Leonrdo','Gabriel','Julia','Gleison']
 
 L = 10
 C = 2
