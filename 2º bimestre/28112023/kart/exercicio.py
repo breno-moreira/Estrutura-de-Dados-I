@@ -9,7 +9,7 @@ l = 6
 c = 10
 
 matriz = []
-nomes = ['Julia','Rafael','Thiago','Giseli','Maria','Maya']
+nomes = ['Brenda','Rafael','Bruno','Ana luiza','Maria','Grasieli']
 
 # Criar matriz com números aleatórios
 
